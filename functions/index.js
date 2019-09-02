@@ -68,7 +68,10 @@ exports.createNotificationOnLike = functions
           });
         }
       })
-      .catch((err) => console.error(err));
+      .catch((err) => {
+        console.error(err);
+        return;
+      });
   });
 exports.deleteNotificationOnUnLike = functions
   .region('europe-west1')
