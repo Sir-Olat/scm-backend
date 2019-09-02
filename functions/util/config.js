@@ -1,8 +1,9 @@
 module.exports = {
-  apiKey: 'AIzaSyBGE61bBXSyRfOccvujvR8VjWfB1BjW-Og',
-  authDomain: 'socialape-d081e.firebaseapp.com',
-  databaseURL: 'https://socialape-d081e.firebaseio.com',
-  projectId: 'socialape-d081e',
-  storageBucket: 'socialape-d081e.appspot.com',
-  messagingSenderId: '354040522108'
+  apiKey: "AIzaSyBN4qYo92B8z2aFLYxVjl0BNOLVMDy1GoE",
+  authDomain: "socialapp-27a8c.firebaseapp.com",
+  databaseURL: "https://socialapp-27a8c.firebaseio.com",
+  projectId: "socialapp-27a8c",
+  storageBucket: "socialapp-27a8c.appspot.com",
+  messagingSenderId: "330280948218",
+  appId: "1:330280948218:web:bcc779e21dd4015d"
 };
